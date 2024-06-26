@@ -1,5 +1,5 @@
 # Branch Messaging Web App
- This is a simple messaging web app built using Django and Python.This Python-based web application demonstrates user/client communications and customer service agent responses. 
+ This is a messaging web app built using Django and Python for Branch.This Python-based web application demonstrates user/client communications and customer service agent responses. 
 # Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
