@@ -20,7 +20,8 @@ pip install virtualenv
  pip install django-crispy-forms==1.14.0
  pip install pandas
  pip install openpyxl pip
-4. Compile the React app:
+You can compile all these as requirements.txt
+5. Compile the React app:
    cd branch messaging
    npm install
    npm run build
