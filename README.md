@@ -33,5 +33,6 @@ You can compile all these as requirements.txt
   Host my application locally on my system.
   Methods for surfacing messages that require immediate attention and are more essential were investigated.
   Search functionality has been implemented to enable agents to conduct searches on incoming messages and/or customers.
+  You'll need to add more functionality, error handling, and security measures to make it production-ready.
 # Notable Accomplishments:
   Messages are sorted by key word matching, with high priority assigned to those that match, and normal priority assigned to the remaining messages.
