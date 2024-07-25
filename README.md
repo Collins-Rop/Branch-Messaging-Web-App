@@ -36,3 +36,6 @@ You can compile all these as requirements.txt
   You'll need to add more functionality, error handling, and security measures to make it production-ready.
 # Notable Accomplishments:
   Messages are sorted by key word matching, with high priority assigned to those that match, and normal priority assigned to the remaining messages.
+
+# TODO
+  Add a search bar to the agent portal to search for messages and customers. (To implement search functionality)
