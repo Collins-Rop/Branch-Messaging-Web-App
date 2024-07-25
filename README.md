@@ -39,3 +39,4 @@ You can compile all these as requirements.txt
 
 # TODO
   Add a search bar to the agent portal to search for messages and customers. (To implement search functionality)
+  Create a Flask route to display incoming messages for agents (Agent Portal).
