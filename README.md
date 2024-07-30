@@ -25,6 +25,8 @@ You can compile all these as requirements.txt
    cd branch messaging
    npm install
    npm run build
+   ## OR
+   yarn
 
 # Successfully Developed: 
  A web-based communications application designed to provide responses to inquiries submitted by clients. The system enables a group of agents to efficiently address incoming communications from many customers.
