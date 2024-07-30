@@ -27,7 +27,7 @@ You can compile all these as requirements.txt
    npm run build
    ## OR
    yarn
-
+   yarn build
 # Successfully Developed: 
  A web-based communications application designed to provide responses to inquiries submitted by clients. The system enables a group of agents to efficiently address incoming communications from many customers.
   Messages from customers may be transmitted and received via a simulated API endpoint implemented as a straightforward web form.
